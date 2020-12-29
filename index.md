@@ -1,21 +1,14 @@
-
-
-
 # TRADE AND COOPERATION AGREEMENT BETWEEN THE EUROPEAN UNION AND THE EUROPEAN ATOMIC ENERGY COMMUNITY, OF THE ONE PART, AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, OF THE OTHER PART
-
-- [PREAMBLE](#preamble)
-- [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](#part-one-common-and-institutional-provisions)
-- [Title I: General provisions](#title-i-general-provisions)
 
 #### [PREAMBLE](preamble.md)
 
-## [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](#part-one-common-and-institutional-provisions.md)
+## [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](part-one-common-and-institutional-provisions.md)
 
-#### Title I: General provisions  
+#### [Title I: General provisions](part-one-title-i-general-provisions.md)
 
-#### Title II: Principles of interpretation and definitions
+#### [Title II: Principles of interpretation and definitions](part-one-title-ii-principles-of-interpretation-and-definitions.md)
 
-#### Title III: Institutional framework 
+#### [Title III: Institutional framework](part-one-title-iii-institutional-framework.md)
 
 ## PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS 
 
