@@ -4,8 +4,8 @@
 # TRADE AND COOPERATION AGREEMENT BETWEEN THE EUROPEAN UNION AND THE EUROPEAN ATOMIC ENERGY COMMUNITY, OF THE ONE PART, AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, OF THE OTHER PART
 
 - [PREAMBLE](#preamble)
-- [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](#part_one:_common_and_insitutional_provisions)
-- [Title I: General provisions](#title_I:_general_provisions)
+- [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](#part_one_common_and_insitutional_provisions)
+- [Title I: General provisions](#title_i_general_provisions)
 
 #### PREAMBLE 
 
