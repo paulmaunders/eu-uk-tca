@@ -2,7 +2,7 @@
 
 #### [PREAMBLE](preamble.md)
 
-## [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](part-one-common-and-institutional-provisions.md)
+## [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](part-one-common-and-institutional-provisions.md#part-one-common-and-institutional-provisions)
 
 #### [Title I: General provisions](part-one-common-and-institutional-provisions.md#title-i-general-provisions)
 
