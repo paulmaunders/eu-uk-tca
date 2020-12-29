@@ -4,11 +4,11 @@
 
 ## [PART ONE: COMMON AND INSTITUTIONAL PROVISIONS](part-one-common-and-institutional-provisions.md)
 
-#### [Title I: General provisions](part-one-title-i-general-provisions.md)
+#### [Title I: General provisions](part-one-common-and-institutional-provisions.md#title-i-general-provisions)
 
-#### [Title II: Principles of interpretation and definitions](part-one-title-ii-principles-of-interpretation-and-definitions.md)
+#### [Title II: Principles of interpretation and definitions](part-one-common-and-institutional-provisions.md#title-ii-principles-of-interpretation-and-definitions)
 
-#### [Title III: Institutional framework](part-one-title-iii-institutional-framework.md)
+#### [Title III: Institutional framework](part-one-common-and-institutional-provisions.md#title-iii-institutional-framework)
 
 ## PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS 
 
