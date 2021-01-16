@@ -1,3 +1,5 @@
+## [PART FOUR: THEMATIC COOPERATION](005-part-four-thematic-cooperation.md)
+
 # PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS
 
 #### Article UNPRO.0.1: Scope
@@ -347,3 +349,5 @@ The participation fee referred to in Article UNPRO.2.1(4) [Financial conditions]
 - in 2024: 2%;
 - in 2025: 2.5%;
 - in 2026: 3%.
+
+## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](007_part-six-dispute-settelment-and-horizontal-provisions.md)
