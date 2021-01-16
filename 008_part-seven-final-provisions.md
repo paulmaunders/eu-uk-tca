@@ -1,3 +1,5 @@
+## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](007_part-six-dispute-settelment-and-horizontal-provisions.md)
+
 # PART SEVEN: FINAL PROVISIONS
 
 #### Article FINPROV.1: Territorial scope
@@ -150,3 +152,5 @@ shall not be treated as an amendment to the applicable data protection regime fo
     (b) the day referred to in paragraph 1.
 
 3. As from the date from which this Agreement is provisionally applied, the Parties shall understand references in this Agreement to “the date of entry into force of this Agreement” or to “the entry into force of this Agreement” as references to the date from which this Agreement is provisionally applied.
+
+## [ANNEXES ](009_annexes.md)
