@@ -110,11 +110,11 @@
 008-a050-annex-to-the-protocol-on-administrative-cooperation-and-combating-fraud-in-the-field-of-value-added-tax-and-on-mutual-assistance-for-the-recovery-of-claims-relating-to-taxes-and-duties.md
 008-a051-protocol-on-mutual-administrative-assistance-in-customs-matters.md
 008-a052-protocol-on-social-security-coordination.md
--> title-i-general-provisions-3.md
--> title-ii-determination-of-the-legislation-applicable.md
--> title-iii-special-provisions-concerning-the-various-categories-of-benefits.md
--> title-iv-miscellaneous-provisions.md
--> title-v-final-provisions-1.md
+-> title-i-general-provisions-3
+-> title-ii-determination-of-the-legislation-applicable
+-> title-iii-special-provisions-concerning-the-various-categories-of-benefits
+-> title-iv-miscellaneous-provisions
+-> title-v-final-provisions-1
 008-a053-annex-ssc-1-certain-benefits-in-cash-to-which-the-protocol-shall-not-apply.md
 008-a054-annex-ssc-2-restriction-of-rights-to-benefits-in-kind-for-members-of-the-family-of-a-frontier-worker.md
 008-a055-annex-ssc-3-more-rights-for-pensioners-returning-to-the-competent-state.md
