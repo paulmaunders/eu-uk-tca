@@ -5466,3 +5466,5 @@ Convention on the Law of the Sea, done at Montego Bay on 10 December 1982 and it
 
 ##### Article OTH.10: Termination of Part Two
 Without prejudice to Article FINPROV.8 [Termination], each Party may at any moment terminate this Part, by written notification through diplomatic channels. In that event, this Part shall cease to be in force on the first day of the ninth month following the date of notification. Heading Four [Social security coordination and visas for short-term travels] and the Protocol on Social Security Coordination shall not be terminated pursuant to this Article.
+
+## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS](004-part-three-law-enforcement-and-judicial-cooperation-in-criminal-matters.md)
