@@ -1,3 +1,5 @@
+## PROTOCOL ON ADMINISTRATIVE COOPERATION AND COMBATING FRAUD IN THE FIELD OF VALUE ADDED TAX AND ON MUTUAL ASSISTANCE FOR THE RECOVERY OF CLAIMS RELATING TO TAXES AND DUTIES](010_protocol-on-administrative-cooperation-and-combating-fraud-in-the-field-of-value-added-tax-and-on-mutual-assistance-for-the-recovery-of-claims-relating-to-taxes-and-duties.md)
+
 # PROTOCOL ON MUTUAL ADMINISTRATIVE ASSISTANCE IN CUSTOMS MATTERS
 
 ### Article 1: Definitions
@@ -127,3 +129,5 @@ In respect of the interpretation and implementation of this Protocol, the Partie
 
 ### Article 18: Future developments
 With a view to supplementing the levels of mutual assistance provided for in this Protocol, the Trade Specialised Committee on customs cooperation and rules of origin may adopt a decision to expand this Protocol by establishing arrangements on specific sectors or matters in accordance with the Parties’ respective customs legislation.
+
+## [PROTOCOL ON SOCIAL SECURITY COORDINATION](012_protocol-on-social-security-coordination (1).md)
