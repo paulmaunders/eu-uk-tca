@@ -1,3 +1,5 @@
+## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](003_part-two-trade-transport-fisheries-and-other-arrangements.md)
+
 # PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS
 
 ## TITLE I: GENERAL PROVISIONS
@@ -1671,3 +1673,5 @@ The Parties undertake not to submit a dispute between them regarding this Part t
 ##### Article LAW.DS.7: Time Periods
 1. All time periods laid down in this Title shall be counted in weeks or months, as the case may be, from the day following the act to which they refer.
 2. Any time period referred to in this Title may be modified by mutual agreement of the Parties.
+
+## [PART FOUR: THEMATIC COOPERATION](005-part-four-thematic-cooperation.md)
