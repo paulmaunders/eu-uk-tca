@@ -1,3 +1,5 @@
+## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](006_part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md
+
 # PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS
 
 ## TITLE I: DISPUTE SETTLEMENT
@@ -427,3 +429,5 @@ The Party concerned shall, without delay, notify the measures taken to the Partn
 5. Either Party may, without having prior recourse to consultations pursuant to Article INST.13 [Consultations], initiate the arbitration procedure referred to in Article INST.14 [Arbitration procedure] to challenge a measure taken by the other Party in application of paragraphs 1 to 5 of this Article.
 
 6. The safeguard measures referred to in paragraph 1 and the rebalancing measures referred to in paragraph 5 may also be taken in relation to a supplementing agreement, unless otherwise provided therein.
+
+## [PART SEVEN: FINAL PROVISIONS](008_part-seven-final-provisions.md)
