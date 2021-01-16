@@ -248,3 +248,5 @@ The Parties shall consult civil society on the implementation of this Agreement 
 2. The Civil Society Forum shall meet at least once a year, unless otherwise agreed by the Parties. The Civil Society Forum may meet by virtual means.
 
 3. The Civil Society Forum shall be open for the participation of independent civil society organisations established in the territories of the Parties, including members of the domestic advisory groups referred to in Article INST.7 [Domestic advisory groups]. Each Party shall promote a balanced representation, including non-governmental organisations, business and employers´ organisations and trade unions, active in economic, sustainable development, social, human rights, environmental and other matters.
+
+## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](003_part-two-trade-transport-fisheries-and-other-arrangements.md)
