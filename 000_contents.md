@@ -1,23 +1,39 @@
 __PREAMBLE__ 
 
 __PART ONE: COMMON AND INSTITUTIONAL PROVISIONS__ 
+    
     Title I: General provisions 
+    
     Title II: Principles of interpretation and definitions 
+    
     Title III: Institutional framework 
 
 __PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS__ 
+    
     HEADING ONE: TRADE 
+    
         Title I: Trade in goods 
+    
         Title II: Services and investment 
-        Title III: Digital trade 
+    
+        Title III: Digital trade
+        
         Title IV: Capital movements, payments, transfers and temporary safeguard measures
+        
         Title V: Intellectual property 
+        
         Title VI: Public procurement 
+        
         Title VII: Small and medium-sized enterprises 
+        
         Title VIII: Energy 
+        
         Title IX: Transparency 
+        
         Title X: Good regulatory practices and regulatory cooperation 
+        
         Title XI: Level playing field for open and fair competition and sustainable development
+        
         Title XII: Exceptions 
     HEADING TWO: AVIATION 
         Title I: Air transport 
