@@ -43,7 +43,7 @@
 
 ### [HEADING SIX: OTHER PROVISIONS](002-p02h06t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-six-other-provisions.md)
 
-## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS](004-part-three-law-enforcement-and-judicial-cooperation-in-criminal-matters.md)
+## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS]()
 
 #### [Title I: General provisions](003-p03h00t01-title-i-general-provisions-1.md)
 #### [Title II: Exchanges of DNA, fingerprints and vehicle registration data](003-p03h00t02-title-ii-exchanges-of-dna-fingerprints-and-vehicle-registration-data.md)
@@ -59,22 +59,22 @@
 #### [Title XII: Other provisions](003-p03h00t12-title-xii-other-provisions.md)
 #### [Title XIII: Dispute settlement](003-p03h00t13-title-xiii-dispute-settlement.md)
 
-## [PART FOUR: THEMATIC COOPERATION](005-part-four-thematic-cooperation.md)
+## [PART FOUR: THEMATIC COOPERATION]()
 
 #### [Title I: Health security](004-p04h00t01-title-i-health-security.md)
 #### [Title II: Cyber security](004-p04h00t02-title-ii-cyber-security.md)
 
 ## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](006_part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md)
 
-## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](007_part-six-dispute-settelment-and-horizontal-provisions.md)
+## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](006-p06h00t00-part-six-dispute-settlement-and-horizontal-provisions.md)
 
 #### [Title I: Dispute settlement](006-p06h00t01-title-i-dispute-settlement.md)
 #### [Title II: Basis for cooperation](006-p06h00t02-title-ii-basis-for-cooperation.md)
 #### [Title III: Fulfillment of obligations and safeguard measures](006-p06h00t03-title-iii-fulfillment-of-obligations-and-safeguard-measures.md)
 
-## [PART SEVEN: FINAL PROVISIONS](008_part-seven-final-provisions.md)
+## [PART SEVEN: FINAL PROVISIONS]()
 
-## [ANNEXES ]()
+## [ANNEXES ](008-a000-annexes.md)
 
 ### [ANNEX INST: RULES OF PROCEDURE OF THE PARTNERSHIP COUNCIL AND COMMITTEES](008-a001-aannex-inst-rules-of-procedure-of-the-partnership-council-and-committees.md)
 ### [ANNEX ORIG-1: INTRODUCTORY NOTES TO PRODUCT-SPECIFIC RULES OF ORIGIN](008-a002-annex-orig-1-introductory-notes-to-product-specific-rules-of-origin.md)
