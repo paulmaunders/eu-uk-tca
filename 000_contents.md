@@ -8,7 +8,7 @@
 
 #### [Title III: Institutional framework](part-one-common-and-institutional-provisions.md#title-iii-institutional-framework)
 
-## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](003_part-two-trade-transport-fisheries-and-other-arrangements.md)
+## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](002-p02h00t00-part-two-trade-transport-fisheries-and-other-arrangements.md )
 
 ### [HEADING ONE: TRADE](002-p02h01t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-one-trade.md)
 
@@ -43,7 +43,7 @@
 
 ### [HEADING SIX: OTHER PROVISIONS](002-p02h06t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-six-other-provisions.md)
 
-## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS]()
+## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS](003-p03h00t00-part-three-law-enforcement-and-judicial-cooperation-in-criminal-matters.md)
 
 #### [Title I: General provisions](003-p03h00t01-title-i-general-provisions-1.md)
 #### [Title II: Exchanges of DNA, fingerprints and vehicle registration data](003-p03h00t02-title-ii-exchanges-of-dna-fingerprints-and-vehicle-registration-data.md)
@@ -59,12 +59,12 @@
 #### [Title XII: Other provisions](003-p03h00t12-title-xii-other-provisions.md)
 #### [Title XIII: Dispute settlement](003-p03h00t13-title-xiii-dispute-settlement.md)
 
-## [PART FOUR: THEMATIC COOPERATION]()
+## [PART FOUR: THEMATIC COOPERATION](004-p04h00t00-part-four-thematic-cooperation.md)
 
 #### [Title I: Health security](004-p04h00t01-title-i-health-security.md)
 #### [Title II: Cyber security](004-p04h00t02-title-ii-cyber-security.md)
 
-## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](006_part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md)
+## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](005-p05h00t00-part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md)
 
 ## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](006-p06h00t00-part-six-dispute-settlement-and-horizontal-provisions.md)
 
@@ -72,7 +72,7 @@
 #### [Title II: Basis for cooperation](006-p06h00t02-title-ii-basis-for-cooperation.md)
 #### [Title III: Fulfillment of obligations and safeguard measures](006-p06h00t03-title-iii-fulfillment-of-obligations-and-safeguard-measures.md)
 
-## [PART SEVEN: FINAL PROVISIONS]()
+## [PART SEVEN: FINAL PROVISIONS](007-p07h00t00-part-seven-final-provisions.md)
 
 ## [ANNEXES ](008-a000-annexes.md)
 
