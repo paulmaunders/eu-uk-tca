@@ -10,9 +10,10 @@
 
 #### [Title III: Institutional framework](part-one-common-and-institutional-provisions.md#title-iii-institutional-framework)
 
-## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](003_part-two-trade-transport-fisheries-and-other-arrangements.md)
+## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](002-p02h00t00-part-two-trade-transport-fisheries-and-other-arrangements.md )
 
 ### [HEADING ONE: TRADE](002-p02h01t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-one-trade.md)
+
 #### [Title I: Trade in goods](002-p02h01t01-title-i-trade-in-goods.md)
 #### [Title II: Services and investment](002-p02h01t02-title-ii-services-and-investment.md) 
 #### [Title III: Digital trade](002-p02h01t03-title-iii-digital-trade.md)
@@ -27,10 +28,12 @@
 #### [Title XII: Exceptions](002-p02h01t12-title-xii-exceptions.md)
 
 ### [HEADING TWO: AVIATION](002-p02h02t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-two-aviation.md) 
+
 #### [Title I: Air transport](002-p02h02t01-title-i-air-transport.md)
 #### [Title II: Aviation safety](002-p02h02t02-title-ii-aviation-safety.md) 
 
 ### [HEADING THREE: ROAD TRANSPORT](002-p02h03t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-three-road-transport.md)
+
 #### [Title I: Transport of goods by road](002-p02h03t01-title-i-transport-of-goods-by-road.md)
 #### [Title II: Transport of passengers by road](002-p02h03t02-title-ii-transport-of-passengers-by-road.md) 
 
@@ -42,7 +45,8 @@
 
 ### [HEADING SIX: OTHER PROVISIONS](002-p02h06t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-six-other-provisions.md)
 
-## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS](004-part-three-law-enforcement-and-judicial-cooperation-in-criminal-matters.md)
+## [PART THREE: LAW ENFORCEMENT AND JUDICIAL COOPERATION IN CRIMINAL MATTERS](003-p03h00t00-part-three-law-enforcement-and-judicial-cooperation-in-criminal-matters.md)
+
 #### [Title I: General provisions](003-p03h00t01-title-i-general-provisions-1.md)
 #### [Title II: Exchanges of DNA, fingerprints and vehicle registration data](003-p03h00t02-title-ii-exchanges-of-dna-fingerprints-and-vehicle-registration-data.md)
 #### [Title III: Transfer and processing of passenger name record data](003-p03h00t03-title-iii-transfer-and-processing-of-passenger-name-record-data.md)
@@ -57,20 +61,23 @@
 #### [Title XII: Other provisions](003-p03h00t12-title-xii-other-provisions.md)
 #### [Title XIII: Dispute settlement](003-p03h00t13-title-xiii-dispute-settlement.md)
 
-## [PART FOUR: THEMATIC COOPERATION](005-part-four-thematic-cooperation.md)
+## [PART FOUR: THEMATIC COOPERATION](004-p04h00t00-part-four-thematic-cooperation.md)
+
 #### [Title I: Health security](004-p04h00t01-title-i-health-security.md)
 #### [Title II: Cyber security](004-p04h00t02-title-ii-cyber-security.md)
 
-## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](006_part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md)
+## [PART FIVE: PARTICIPATION IN UNION PROGRAMMES, SOUND FINANCIAL MANAGEMENT AND FINANCIAL PROVISIONS](005-p05h00t00-part-five-participation-in-union-programmes-sound-financial-management-and-financial-provisions.md)
 
-## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](007_part-six-dispute-settelment-and-horizontal-provisions.md)
+## [PART SIX: DISPUTE SETTLEMENT AND HORIZONTAL PROVISIONS ](006-p06h00t00-part-six-dispute-settlement-and-horizontal-provisions.md)
+
 #### [Title I: Dispute settlement](006-p06h00t01-title-i-dispute-settlement.md)
 #### [Title II: Basis for cooperation](006-p06h00t02-title-ii-basis-for-cooperation.md)
 #### [Title III: Fulfillment of obligations and safeguard measures](006-p06h00t03-title-iii-fulfillment-of-obligations-and-safeguard-measures.md)
 
-## [PART SEVEN: FINAL PROVISIONS](008_part-seven-final-provisions.md)
+## [PART SEVEN: FINAL PROVISIONS](007-p07h00t00-part-seven-final-provisions.md)
 
-## [ANNEXES ]()
+## [ANNEXES ](008-a000-annexes.md)
+
 ### [ANNEX INST: RULES OF PROCEDURE OF THE PARTNERSHIP COUNCIL AND COMMITTEES](008-a001-aannex-inst-rules-of-procedure-of-the-partnership-council-and-committees.md)
 ### [ANNEX ORIG-1: INTRODUCTORY NOTES TO PRODUCT-SPECIFIC RULES OF ORIGIN](008-a002-annex-orig-1-introductory-notes-to-product-specific-rules-of-origin.md)
 ### [ANNEX ORIG-2: PRODUCT SPECIFIC RULES OF ORIGIN](008-a003-annex-orig-2-product-specific-rules-of-origin.md)
@@ -126,6 +133,7 @@
 #### TITLE III: RECOVERY ASSISTANCE
 #### TITLE IV: IMPLEMENTATION AND APPLICATION
 #### TITLE V: FINAL PROVISIONS
+
 ### [ANNEX TO THE PROTOCOL ON ADMINISTRATIVE COOPERATION AND COMBATING FRAUD IN THE FIELD OF VALUE ADDED TAX AND ON MUTUAL ASSISTANCE FOR THE RECOVERY OF CLAIMS RELATING TO TAXES AND DUTIES](008-a050-annex-to-the-protocol-on-administrative-cooperation-and-combating-fraud-in-the-field-of-value-added-tax-and-on-mutual-assistance-for-the-recovery-of-claims-relating-to-taxes-and-duties.md)
 
 ## [PROTOCOL ON MUTUAL ADMINISTRATIVE ASSISTANCE IN CUSTOMS MATTERS ](008-a051-protocol-on-mutual-administrative-assistance-in-customs-matters.md)
@@ -136,6 +144,7 @@
 #### TITLE III: SPECIAL PROVISIONS CONCERNING THE VARIOUS CATEGORIES OF BENEFITS
 #### TITLE IV: MISCELLANEOUS PROVISIONS
 #### TITLE V: FINAL PROVISIONS
+
 ### [ANNEX SSC-1: CERTAIN BENEFITS IN CASH TO WHICH THE PROTOCOL SHALL NOT APPLY](008-a053-annex-ssc-1-certain-benefits-in-cash-to-which-the-protocol-shall-not-apply.md)
 ### [ANNEX SSC-2: RESTRICTION OF RIGHTS TO BENEFITS IN KIND FOR MEMBERS OF THE FAMILY OF A FRONTIER WORKER](008-a054-annex-ssc-2-restriction-of-rights-to-benefits-in-kind-for-members-of-the-family-of-a-frontier-worker.md)
 ### [ANNEX SSC-3: MORE RIGHTS FOR PENSIONERS RETURNING TO THE COMPETENT STATE](008-a055-annex-ssc-3-more-rights-for-pensioners-returning-to-the-competent-state.md)
