@@ -24,6 +24,17 @@
 ### [ANNEX PPROC-1: PUBLIC PROCUREMENT](008-a024-annex-pproc-1-public-procurement.md)
 ### [ANNEX ENER-1: LISTS OF ENERGY GOODS, HYDROCARBONS AND RAW MATERIALS](008-a025-annex-ener-1-lists-of-energy-goods-hydrocarbons-and-raw-materials.md)
 ### [ANNEX ENER-2: ENERGY AND ENVIRONMENTAL SUBSIDIES](008-a026-annex-ener-2-energy-and-environmental-subsidies.md)
+
+
+### [ANNEX SSC-1: CERTAIN BENEFITS IN CASH TO WHICH THE PROTOCOL SHALL NOT APPLY](008-a053-annex-ssc-1-certain-benefits-in-cash-to-which-the-protocol-shall-not-apply.md)
+### [ANNEX SSC-2: RESTRICTION OF RIGHTS TO BENEFITS IN KIND FOR MEMBERS OF THE FAMILY OF A FRONTIER WORKER](008-a054-annex-ssc-2-restriction-of-rights-to-benefits-in-kind-for-members-of-the-family-of-a-frontier-worker.md)
+### [ANNEX SSC-3: MORE RIGHTS FOR PENSIONERS RETURNING TO THE COMPETENT STATE](008-a055-annex-ssc-3-more-rights-for-pensioners-returning-to-the-competent-state.md)
+### [ANNEX SSC-4: CASES IN WHICH THE PRO RATA CALCULATION SHALL BE WAIVED OR SHALL NOT APPLY](008-a056-annex-ssc-4-cases-in-which-the-pro-rata-calculation-shall-be-waived-or-shall-not-apply.md)
+### [ANNEX SSC-5: BENEFITS AND AGREEMENTS WHICH ALLOW THE APPLICATION OF ARTICLE SSC.49 Overlapping of benefits of the same kind](008-a057-annex-ssc-5-benefits-and-agreements-which-allow-the-application-of-article-ssc49-overlapping-of-benefits-of-the-same-kind.md)
+### [ANNEX SSC-6: SPECIAL PROVISIONS FOR THE APPLICATION OF THE LEGISLATION OF THE MEMBER STATES AND OF THE UNITED KINGDOM](008-a058-annex-ssc-6-special-provisions-for-the-application-of-the-legislation-of-the-member-states-and-of-the-united-kingdom.md)
+### [ANNEX SSC-7: IMPLEMENTING PART](008-a059-annex-ssc-7-implementing-part.md)
+### [ANNEX SSC-8: TRANSITIONAL PROVISIONS REGARDING THE APPLICATION OF ARTICLE SSC.11 - Detached workers](008-a060-annex-ssc-8-transitional-provisions-regarding-the-application-of-article-ssc11-detached-workers.md)
+
 ### [ANNEX ENER-3: NON-APPLICATION OF THIRD-PARTY ACCESS AND OWNERSHIP UNBUNDLING TO INFRASTRUCTURE](008-a027-annex-ener-3-non-application-of-third-party-access-and-ownership-unbundling-to-infrastructure.md)
 ### [ANNEX ENER-4: ALLOCATION OF ELECTRICITY INTERCONNECTOR CAPACITY AT THE DAY-AHEAD MARKET TIMEFRAME](008-a028-annex-ener-4-allocation-of-electricity-interconnector-capacity-at-the-day-ahead-market-timeframe.md)
 ### [ANNEX AVSAF-1: AIRWORTHINESS AND ENVIRONMENT CERTIFICATION](008-a029-annex-avsaf-1-airworthiness-and-environment-certification.md)
