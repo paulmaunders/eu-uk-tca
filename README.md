@@ -12,7 +12,7 @@
 
 ## [PART TWO: TRADE, TRANSPORT, FISHERIES AND OTHER ARRANGEMENTS ](003_part-two-trade-transport-fisheries-and-other-arrangements.md)
 
-### HEADING ONE: TRADE 
+### [HEADING ONE: TRADE](002-p02h01t00-part-two-trade-transport-fisheries-and-other-arrangements-heading-one-trade.md)
 #### [Title I: Trade in goods](002-p02h01t01-title-i-trade-in-goods.md)
 #### [Title II: Services and investment](002-p02h01t02-title-ii-services-and-investment.md) 
 #### [Title III: Digital trade](002-p02h01t03-title-iii-digital-trade.md)
